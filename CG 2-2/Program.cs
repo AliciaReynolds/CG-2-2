@@ -14,7 +14,7 @@ namespace CG_2_2
             int w = Convert.ToInt32(width);
 
             int area = l * w;
-            Console.WriteLine("The area of your rectangle is" + area);
+            Console.WriteLine("The area of your rectangle is" + " " + area);
             Console.ReadLine();
 
         }
